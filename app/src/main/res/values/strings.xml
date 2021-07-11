@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ECommerce</string>
+    <string name="logo_splash">Logo</string>
+    <string name="sign_in">Sign In</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="not_a_member">Not a member ? <b>Sign up Now</b></string>
+</resources>
